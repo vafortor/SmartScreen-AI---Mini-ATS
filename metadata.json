@@ -1,0 +1,5 @@
+{
+  "name": "SmartScreen AI - Mini ATS",
+  "description": "An AI-powered Applicant Tracking System that parses resumes, analyzes job descriptions, and intelligently scores candidates for the best fit.",
+  "requestFramePermissions": []
+}
